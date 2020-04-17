@@ -12,5 +12,6 @@ This repository will hold a culmination of different repositories which all have
 ### Udacity Deep Learning Nanodegree
 1. [Dog-Breed-Classifier](https://github.com/lopezyouhei/Dog-Breed-Classifier) - Classifies dogs from given images.
 2. [TV-Script-Generator](https://github.com/lopezyouhei/TV-Script-Generator) - Generates Seinfeld dialogue
+3. [Face-Generator](https://github.com/lopezyouhei/Face-Generator) - Generates faces of celebrities
 ## Personal Projects
 ## Collaborations
